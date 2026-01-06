@@ -575,6 +575,22 @@
         "special": "energy"
       },
       "story": "Your monkey evolved randomly!"
+    },
+    {
+      "timestamp": "2026-01-06T00:44:45.547688",
+      "dna_hash": "674426840609983b",
+      "generation": 1,
+      "mutation_count": 26,
+      "rarity_score": 43.333333333333336,
+      "traits": {
+        "body_color": "bronze",
+        "face_expression": "legendary",
+        "accessory": "crown",
+        "pattern": "hearts",
+        "background": "space",
+        "special": "energy"
+      },
+      "story": "Your monkey evolved randomly!"
     }
   ]
 }

@@ -50,55 +50,55 @@
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
 <rect width="400" height="400" fill="#0D1B2A"/>
-<circle cx="262" cy="258" r="1" fill="white" opacity="0.4"/>
-<circle cx="124" cy="116" r="2" fill="white" opacity="0.5"/>
-<circle cx="386" cy="374" r="1" fill="white" opacity="0.6000000000000001"/>
-<circle cx="248" cy="232" r="2" fill="white" opacity="0.7000000000000001"/>
-<circle cx="110" cy="90" r="1" fill="white" opacity="0.8"/>
-<circle cx="372" cy="348" r="2" fill="white" opacity="0.4"/>
-<circle cx="234" cy="206" r="1" fill="white" opacity="0.5"/>
-<circle cx="96" cy="64" r="2" fill="white" opacity="0.6000000000000001"/>
-<circle cx="358" cy="322" r="1" fill="white" opacity="0.7000000000000001"/>
-<circle cx="220" cy="180" r="2" fill="white" opacity="0.8"/>
-<circle cx="82" cy="38" r="1" fill="white" opacity="0.4"/>
-<circle cx="344" cy="296" r="2" fill="white" opacity="0.5"/>
-<circle cx="206" cy="154" r="1" fill="white" opacity="0.6000000000000001"/>
-<circle cx="68" cy="12" r="2" fill="white" opacity="0.7000000000000001"/>
-<circle cx="330" cy="270" r="1" fill="white" opacity="0.8"/>
+<circle cx="137" cy="83" r="1" fill="white" opacity="0.4"/>
+<circle cx="274" cy="166" r="2" fill="white" opacity="0.5"/>
+<circle cx="11" cy="249" r="1" fill="white" opacity="0.6000000000000001"/>
+<circle cx="148" cy="332" r="2" fill="white" opacity="0.7000000000000001"/>
+<circle cx="285" cy="15" r="1" fill="white" opacity="0.8"/>
+<circle cx="22" cy="98" r="2" fill="white" opacity="0.4"/>
+<circle cx="159" cy="181" r="1" fill="white" opacity="0.5"/>
+<circle cx="296" cy="264" r="2" fill="white" opacity="0.6000000000000001"/>
+<circle cx="33" cy="347" r="1" fill="white" opacity="0.7000000000000001"/>
+<circle cx="170" cy="30" r="2" fill="white" opacity="0.8"/>
+<circle cx="307" cy="113" r="1" fill="white" opacity="0.4"/>
+<circle cx="44" cy="196" r="2" fill="white" opacity="0.5"/>
+<circle cx="181" cy="279" r="1" fill="white" opacity="0.6000000000000001"/>
+<circle cx="318" cy="362" r="2" fill="white" opacity="0.7000000000000001"/>
+<circle cx="55" cy="45" r="1" fill="white" opacity="0.8"/>
 <circle cx="192" cy="128" r="2" fill="white" opacity="0.4"/>
-<circle cx="54" cy="386" r="1" fill="white" opacity="0.5"/>
-<circle cx="316" cy="244" r="2" fill="white" opacity="0.6000000000000001"/>
-<circle cx="178" cy="102" r="1" fill="white" opacity="0.7000000000000001"/>
-<circle cx="40" cy="360" r="2" fill="white" opacity="0.8"/>
-<circle cx="302" cy="218" r="1" fill="white" opacity="0.4"/>
-<circle cx="164" cy="76" r="2" fill="white" opacity="0.5"/>
-<circle cx="26" cy="334" r="1" fill="white" opacity="0.6000000000000001"/>
-<circle cx="288" cy="192" r="2" fill="white" opacity="0.7000000000000001"/>
-<circle cx="150" cy="50" r="1" fill="white" opacity="0.8"/>
-<circle cx="12" cy="308" r="2" fill="white" opacity="0.4"/>
-<circle cx="274" cy="166" r="1" fill="white" opacity="0.5"/>
-<circle cx="136" cy="24" r="2" fill="white" opacity="0.6000000000000001"/>
-<circle cx="398" cy="282" r="1" fill="white" opacity="0.7000000000000001"/>
-<circle cx="260" cy="140" r="2" fill="white" opacity="0.8"/>
-<circle cx="122" cy="398" r="1" fill="white" opacity="0.4"/>
+<circle cx="329" cy="211" r="1" fill="white" opacity="0.5"/>
+<circle cx="66" cy="294" r="2" fill="white" opacity="0.6000000000000001"/>
+<circle cx="203" cy="377" r="1" fill="white" opacity="0.7000000000000001"/>
+<circle cx="340" cy="60" r="2" fill="white" opacity="0.8"/>
+<circle cx="77" cy="143" r="1" fill="white" opacity="0.4"/>
+<circle cx="214" cy="226" r="2" fill="white" opacity="0.5"/>
+<circle cx="351" cy="309" r="1" fill="white" opacity="0.6000000000000001"/>
+<circle cx="88" cy="392" r="2" fill="white" opacity="0.7000000000000001"/>
+<circle cx="225" cy="75" r="1" fill="white" opacity="0.8"/>
+<circle cx="362" cy="158" r="2" fill="white" opacity="0.4"/>
+<circle cx="99" cy="241" r="1" fill="white" opacity="0.5"/>
+<circle cx="236" cy="324" r="2" fill="white" opacity="0.6000000000000001"/>
+<circle cx="373" cy="7" r="1" fill="white" opacity="0.7000000000000001"/>
+<circle cx="110" cy="90" r="2" fill="white" opacity="0.8"/>
+<circle cx="247" cy="173" r="1" fill="white" opacity="0.4"/>
 <circle cx="384" cy="256" r="2" fill="white" opacity="0.5"/>
-<circle cx="246" cy="114" r="1" fill="white" opacity="0.6000000000000001"/>
-<circle cx="108" cy="372" r="2" fill="white" opacity="0.7000000000000001"/>
-<circle cx="370" cy="230" r="1" fill="white" opacity="0.8"/>
-<circle cx="232" cy="88" r="2" fill="white" opacity="0.4"/>
-<circle cx="94" cy="346" r="1" fill="white" opacity="0.5"/>
-<circle cx="356" cy="204" r="2" fill="white" opacity="0.6000000000000001"/>
-<circle cx="218" cy="62" r="1" fill="white" opacity="0.7000000000000001"/>
-<circle cx="80" cy="320" r="2" fill="white" opacity="0.8"/>
+<circle cx="121" cy="339" r="1" fill="white" opacity="0.6000000000000001"/>
+<circle cx="258" cy="22" r="2" fill="white" opacity="0.7000000000000001"/>
+<circle cx="395" cy="105" r="1" fill="white" opacity="0.8"/>
+<circle cx="132" cy="188" r="2" fill="white" opacity="0.4"/>
+<circle cx="269" cy="271" r="1" fill="white" opacity="0.5"/>
+<circle cx="6" cy="354" r="2" fill="white" opacity="0.6000000000000001"/>
+<circle cx="143" cy="37" r="1" fill="white" opacity="0.7000000000000001"/>
+<circle cx="280" cy="120" r="2" fill="white" opacity="0.8"/>
 <circle cx="200" cy="200" r="165" fill="none" stroke="#00FFFF" stroke-width="3" opacity="0.25" stroke-dasharray="20,10"/>
-<ellipse cx="115" cy="140" rx="45" ry="50" fill="#CD7F32" filter="url(#shadow)"/>
+<ellipse cx="115" cy="140" rx="45" ry="50" fill="#9370DB" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
 <ellipse cx="115" cy="145" rx="18" ry="22" fill="#FF9999"/>
-<ellipse cx="285" cy="140" rx="45" ry="50" fill="#CD7F32" filter="url(#shadow)"/>
+<ellipse cx="285" cy="140" rx="45" ry="50" fill="#9370DB" filter="url(#shadow)"/>
 <ellipse cx="285" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
-<ellipse cx="200" cy="200" rx="110" ry="115" fill="#CD7F32" filter="url(#shadow)"/>
-<ellipse cx="180" cy="140" rx="50" ry="30" fill="#DAA06D" opacity="0.3"/>
+<ellipse cx="200" cy="200" rx="110" ry="115" fill="#9370DB" filter="url(#shadow)"/>
+<ellipse cx="180" cy="140" rx="50" ry="30" fill="#B19CD9" opacity="0.3"/>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
@@ -116,7 +116,7 @@
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
 <line x1="182" y1="260" x2="218" y2="260" stroke="#5D2E0C" stroke-width="2"/>
-<polygon points="165,70 180,45 200,65 220,45 235,70" fill="#FFD700" stroke="#DAA520" stroke-width="2"/><rect x="165" y="70" width="70" height="12" fill="#FFD700" stroke="#DAA520" stroke-width="2"/>
+<rect x="142" y="175" width="38" height="28" rx="4" fill="#000" opacity="0.85"/><rect x="220" y="175" width="38" height="28" rx="4" fill="#000" opacity="0.85"/><line x1="180" y1="189" x2="220" y2="189" stroke="#000" stroke-width="3"/><line x1="142" y1="189" x2="120" y2="180" stroke="#000" stroke-width="2"/><line x1="258" y1="189" x2="280" y2="180" stroke="#000" stroke-width="2"/>
 
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#4ECDC4" opacity="0.9"/>

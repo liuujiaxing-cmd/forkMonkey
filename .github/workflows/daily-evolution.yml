@@ -9,7 +9,7 @@ on:
       use_ai:
         description: 'Use AI-powered evolution'
         required: false
-        default: true
+        default: false
         type: boolean
 
 permissions:
@@ -53,19 +53,14 @@ jobs:
           echo "🐵 First time setup - initializing monkey..."
           python src/cli.py init --from-fork
       
-      - name: Evolve monkey
+      - name: Evolve monkey (random - no AI key needed)
         if: steps.check_monkey.outputs.exists == 'true'
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: |
-          echo "🧬 Evolving monkey..."
-          if [ "${{ github.event.inputs.use_ai }}" = "true" ] || [ -z "${{ github.event.inputs.use_ai }}" ]; then
-            python src/cli.py evolve --ai
-          else
-            python src/cli.py evolve --strength 0.1
-          fi
+          echo "🧬 Evolving monkey (random evolution)..."
+          python src/cli.py evolve --strength 0.2
       
       - name: Update README
         run: |

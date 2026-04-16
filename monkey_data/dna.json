@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "a472804b53ae2adc",
-  "mutation_count": 138,
+  "dna_hash": "ba06dc4a10a4379f",
+  "mutation_count": 139,
   "birth_timestamp": 355496,
   "traits": {
     "body_color": {
@@ -11,9 +11,9 @@
       "gene_sequence": "2066cd78"
     },
     "face_expression": {
-      "value": "excited",
+      "value": "mischievous",
       "rarity": "uncommon",
-      "gene_sequence": "1f285d35"
+      "gene_sequence": "d6a9b234"
     },
     "accessory": {
       "value": "bow",

@@ -66,6 +66,7 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#C0C0C0" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#E8E8E8" opacity="0.3"/>
+<g clip-path="url(#head-clip)"><circle cx="110" cy="110" r="12" fill="#000" opacity="0.12"/><circle cx="272" cy="236" r="12" fill="#000" opacity="0.12"/><circle cx="254" cy="182" r="12" fill="#000" opacity="0.12"/><circle cx="236" cy="128" r="12" fill="#000" opacity="0.12"/><circle cx="218" cy="254" r="12" fill="#000" opacity="0.12"/><circle cx="200" cy="200" r="12" fill="#000" opacity="0.12"/><circle cx="182" cy="146" r="12" fill="#000" opacity="0.12"/><circle cx="164" cy="272" r="12" fill="#000" opacity="0.12"/><circle cx="146" cy="218" r="12" fill="#000" opacity="0.12"/><circle cx="128" cy="164" r="12" fill="#000" opacity="0.12"/></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>

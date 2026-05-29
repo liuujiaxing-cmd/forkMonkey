@@ -49,7 +49,22 @@
     </linearGradient>
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
-<rect width="400" height="400" fill="url(#multiverse-gradient)"/>
+<rect width="400" height="400" fill="#006994"/>
+<circle cx="31" cy="89" r="4" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="62" cy="178" r="5" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="93" cy="267" r="6" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="124" cy="356" r="7" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="155" cy="45" r="8" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="186" cy="134" r="9" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="217" cy="223" r="10" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="248" cy="312" r="11" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="279" cy="1" r="4" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="310" cy="90" r="5" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="341" cy="179" r="6" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="372" cy="268" r="7" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="3" cy="357" r="8" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="34" cy="46" r="9" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="65" cy="135" r="10" fill="none" stroke="white" opacity="0.25"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#E0FFFF" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
@@ -83,8 +98,8 @@
 <rect x="155" y="55" width="90" height="18" rx="3" fill="#8B0000"/><rect x="145" y="70" width="110" height="8" fill="#8B0000"/>
 
 <g transform="translate(325, 15)">
-            <rect width="65" height="22" rx="4" fill="#4ECDC4" opacity="0.9"/>
-            <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">UNCOMMON</text>
+            <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>
+            <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">COMMON</text>
         </g>
         <g transform="translate(10, 15)">
             <rect width="45" height="22" rx="4" fill="#333" opacity="0.8"/>

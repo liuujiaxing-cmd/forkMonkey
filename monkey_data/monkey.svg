@@ -52,14 +52,14 @@
 <rect width="400" height="400" fill="#1A4D1A"/>
 <polygon points="40,380 20,380 40,330" fill="#0D3D0D" opacity="0.5"/>
 <polygon points="40,380 60,380 40,330" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="120,380 100,380 120,318" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="120,380 140,380 120,318" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="200,380 180,380 200,306" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="200,380 220,380 200,306" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="280,380 260,380 280,324" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="280,380 300,380 280,324" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="360,380 340,380 360,312" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="360,380 380,380 360,312" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="120,380 100,380 120,305" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="120,380 140,380 120,305" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="200,380 180,380 200,310" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="200,380 220,380 200,310" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="280,380 260,380 280,315" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="280,380 300,380 280,315" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="360,380 340,380 360,320" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="360,380 380,380 360,320" fill="#1A5C1A" opacity="0.5"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="url(#holo-body)" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>

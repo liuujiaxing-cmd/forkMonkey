@@ -49,17 +49,10 @@
     </linearGradient>
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
-<rect width="400" height="400" fill="#1A4D1A"/>
-<polygon points="40,380 20,380 40,330" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="40,380 60,380 40,330" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="120,380 100,380 120,317" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="120,380 140,380 120,317" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="200,380 180,380 200,304" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="200,380 220,380 200,304" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="280,380 260,380 280,321" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="280,380 300,380 280,321" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="360,380 340,380 360,308" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="360,380 380,380 360,308" fill="#1A5C1A" opacity="0.5"/>
+<rect width="400" height="400" fill="#F0E68C"/>
+<path d="M0 350 Q100 338 200 350 T400 350" fill="#4169E1" opacity="0.25"/>
+<path d="M0 365 Q100 353 200 365 T400 365" fill="#4169E1" opacity="0.19"/>
+<path d="M0 380 Q100 368 200 380 T400 380" fill="#4169E1" opacity="0.13"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="url(#galaxy-body)" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
@@ -87,7 +80,7 @@
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
 <path d="M178 260 Q200 268 222 260" stroke="#5D2E0C" stroke-width="2" fill="none"/>
-<polygon points="165,70 180,45 200,65 220,45 235,70" fill="#FFD700" stroke="#DAA520" stroke-width="2"/><rect x="165" y="70" width="70" height="12" fill="#FFD700" stroke="#DAA520" stroke-width="2"/>
+<polygon points="200,10 145,85 255,85" fill="#4B0082"/><ellipse cx="200" cy="85" rx="65" ry="12" fill="#4B0082"/><text x="200" y="55" font-size="20" fill="#FFD700" text-anchor="middle">★</text>
 
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#4ECDC4" opacity="0.9"/>

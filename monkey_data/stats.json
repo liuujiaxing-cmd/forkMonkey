@@ -1,8 +1,8 @@
 {
-  "dna_hash": "33a18103fc399e91",
+  "dna_hash": "bb8700db7f35fc6c",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 263,
+  "mutation_count": 264,
   "rarity_score": 48.333333333333336,
   "parent_id": null,
   "traits": {
@@ -15,7 +15,7 @@
       "rarity": "legendary"
     },
     "accessory": {
-      "value": "wizard_hat",
+      "value": "laser_eyes",
       "rarity": "rare"
     },
     "pattern": {
@@ -31,5 +31,5 @@
       "rarity": "common"
     }
   },
-  "last_updated": "2026-08-12T01:44:55.035708"
+  "last_updated": "2026-08-13T01:47:18.918896"
 }

@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "07f57d2cd3e72021",
-  "mutation_count": 272,
+  "dna_hash": "8675a062b1bcd9b1",
+  "mutation_count": 274,
   "birth_timestamp": 355496,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "3fc73d5b"
     },
     "accessory": {
-      "value": "laser_eyes",
+      "value": "halo",
       "rarity": "rare",
-      "gene_sequence": "3c1d8885"
+      "gene_sequence": "8e822e38"
     },
     "pattern": {
       "value": "diamonds",

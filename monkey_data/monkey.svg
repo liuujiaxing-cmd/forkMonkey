@@ -49,21 +49,32 @@
     </linearGradient>
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
-<rect width="400" height="400" fill="#708090"/>
-<polygon points="50,400 150,260 250,400" fill="#4A5568"/>
-<polygon points="180,400 280,220 380,400" fill="#2D3748"/>
-<polygon points="145,270 150,260 155,270" fill="white"/>
-<polygon points="275,230 280,220 285,230" fill="white"/>
+<rect width="400" height="400" fill="#006994"/>
+<circle cx="142" cy="98" r="4" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="284" cy="196" r="5" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="26" cy="294" r="6" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="168" cy="392" r="7" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="310" cy="90" r="8" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="52" cy="188" r="9" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="194" cy="286" r="10" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="336" cy="384" r="11" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="78" cy="82" r="4" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="220" cy="180" r="5" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="362" cy="278" r="6" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="104" cy="376" r="7" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="246" cy="74" r="8" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="388" cy="172" r="9" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="130" cy="270" r="10" fill="none" stroke="white" opacity="0.25"/>
 
-<ellipse cx="115" cy="140" rx="45" ry="50" fill="url(#galaxy-body)" filter="url(#shadow)"/>
+<ellipse cx="115" cy="140" rx="45" ry="50" fill="url(#rainbow-body)" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
 <ellipse cx="115" cy="145" rx="18" ry="22" fill="#FF9999"/>
-<ellipse cx="285" cy="140" rx="45" ry="50" fill="url(#galaxy-body)" filter="url(#shadow)"/>
+<ellipse cx="285" cy="140" rx="45" ry="50" fill="url(#rainbow-body)" filter="url(#shadow)"/>
 <ellipse cx="285" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
-<ellipse cx="200" cy="200" rx="110" ry="115" fill="url(#galaxy-body)" filter="url(#shadow)"/>
-<ellipse cx="180" cy="140" rx="50" ry="30" fill="#E6E6FA" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="129" y="157" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="133" y="189" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="137" y="221" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="141" y="253" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="145" y="135" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="149" y="167" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="153" y="199" font-size="18" fill="#00CED1" opacity="0.35">◆</text></g>
+<ellipse cx="200" cy="200" rx="110" ry="115" fill="url(#rainbow-body)" filter="url(#shadow)"/>
+<ellipse cx="180" cy="140" rx="50" ry="30" fill="#FFD700" opacity="0.3"/>
+<g clip-path="url(#head-clip)"><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="161" y="263" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="197" y="251" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="233" y="239" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="269" y="227" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="155" y="215" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="191" y="203" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="227" y="191" font-size="18" fill="#00CED1" opacity="0.35">◆</text></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>

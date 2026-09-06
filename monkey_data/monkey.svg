@@ -49,22 +49,17 @@
     </linearGradient>
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
-<rect width="400" height="400" fill="#006994"/>
-<circle cx="382" cy="258" r="4" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="364" cy="116" r="5" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="346" cy="374" r="6" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="328" cy="232" r="7" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="310" cy="90" r="8" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="292" cy="348" r="9" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="274" cy="206" r="10" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="256" cy="64" r="11" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="238" cy="322" r="4" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="220" cy="180" r="5" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="202" cy="38" r="6" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="184" cy="296" r="7" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="166" cy="154" r="8" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="148" cy="12" r="9" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="130" cy="270" r="10" fill="none" stroke="white" opacity="0.25"/>
+<rect width="400" height="400" fill="#1A4D1A"/>
+<polygon points="40,380 20,380 40,330" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="40,380 60,380 40,330" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="120,380 100,380 120,322" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="120,380 140,380 120,322" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="200,380 180,380 200,314" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="200,380 220,380 200,314" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="280,380 260,380 280,306" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="280,380 300,380 280,306" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="360,380 340,380 360,328" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="360,380 380,380 360,328" fill="#1A5C1A" opacity="0.5"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="url(#galaxy-body)" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>

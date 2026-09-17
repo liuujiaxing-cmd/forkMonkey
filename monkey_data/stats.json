@@ -1,8 +1,8 @@
 {
-  "dna_hash": "24661af1212744d3",
+  "dna_hash": "b64d7b9029f7324b",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 297,
+  "mutation_count": 298,
   "rarity_score": 60.0,
   "parent_id": null,
   "traits": {
@@ -15,7 +15,7 @@
       "rarity": "legendary"
     },
     "accessory": {
-      "value": "jetpack",
+      "value": "diamond_chain",
       "rarity": "legendary"
     },
     "pattern": {
@@ -31,5 +31,5 @@
       "rarity": "uncommon"
     }
   },
-  "last_updated": "2026-09-16T03:20:27.883078"
+  "last_updated": "2026-09-17T03:26:02.778831"
 }

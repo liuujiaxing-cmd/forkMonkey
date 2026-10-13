@@ -1,9 +1,9 @@
 {
-  "dna_hash": "ad579471d23ec173",
+  "dna_hash": "02b2dc2ed79088ae",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 327,
-  "rarity_score": 48.333333333333336,
+  "mutation_count": 329,
+  "rarity_score": 56.666666666666664,
   "parent_id": null,
   "traits": {
     "body_color": {
@@ -15,15 +15,15 @@
       "rarity": "legendary"
     },
     "accessory": {
-      "value": "wizard_hat",
-      "rarity": "rare"
+      "value": "golden_crown",
+      "rarity": "legendary"
     },
     "pattern": {
       "value": "stars",
       "rarity": "uncommon"
     },
     "background": {
-      "value": "sunset",
+      "value": "green_grass",
       "rarity": "common"
     },
     "special": {
@@ -31,5 +31,5 @@
       "rarity": "common"
     }
   },
-  "last_updated": "2026-10-12T04:20:33.877433"
+  "last_updated": "2026-10-13T05:29:30.565060"
 }

@@ -1,9 +1,9 @@
 {
-  "dna_hash": "9c79181f4fb19481",
+  "dna_hash": "716de8b2190d6026",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 348,
-  "rarity_score": 58.333333333333336,
+  "mutation_count": 351,
+  "rarity_score": 50.0,
   "parent_id": null,
   "traits": {
     "body_color": {
@@ -11,15 +11,15 @@
       "rarity": "legendary"
     },
     "face_expression": {
-      "value": "enlightened",
-      "rarity": "legendary"
+      "value": "zen",
+      "rarity": "rare"
     },
     "accessory": {
       "value": "wings",
       "rarity": "legendary"
     },
     "pattern": {
-      "value": "stars",
+      "value": "hearts",
       "rarity": "uncommon"
     },
     "background": {
@@ -31,5 +31,5 @@
       "rarity": "common"
     }
   },
-  "last_updated": "2026-10-29T04:22:50.358190"
+  "last_updated": "2026-10-30T04:22:54.070628"
 }
